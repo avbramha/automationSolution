@@ -15,3 +15,103 @@
 2021-02-09 19:20:54,608 [main] INFO TestBase - URL is Launch
 2021-02-09 19:23:13,532 [main] INFO TestBase - URL is Launch
 2021-02-09 20:55:12,743 [main] INFO TestBase - URL is Launch
+2021-02-10 17:00:36,608 [main] INFO TestBase - URL is Launch
+2021-02-10 17:03:54,520 [main] INFO TestBase - URL is Launch
+2021-02-10 17:18:24,748 [main] INFO TestBase - URL is Launch
+2021-02-10 19:12:51,928 [main] INFO TestBase - URL is Launch
+2021-02-10 19:13:09,558 [main] INFO TestBase - Value Entered successfully for search functionality
+2021-02-10 19:13:11,794 [main] INFO TestBase - Search button click Successfully
+2021-02-10 19:13:26,645 [main] INFO TestBase - Flight Booking side link click successfully
+2021-02-10 19:13:47,538 [main] INFO TestBase - Aggrement notice Pop-Up has been aggred successfully
+2021-02-10 19:13:55,182 [main] INFO TestBase - From Date picker clicked successfuly
+2021-02-10 19:13:57,440 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:13:57,658 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:13:58,006 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:13:58,213 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:13:58,329 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:13:58,435 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:14:00,843 [main] INFO TestBase - To Date picker clicked successfuly
+2021-02-10 19:14:06,023 [main] INFO TestBase - Service class dropdown clicked successfuly
+2021-02-10 19:14:08,244 [main] INFO TestBase - Service class selected successfuly from dropdown
+2021-02-10 19:14:08,335 [main] INFO TestBase - Traveler count dropdown selected successfuly
+2021-02-10 19:14:10,460 [main] INFO TestBase - Traveler count selected successfuly
+2021-02-10 19:14:18,820 [main] INFO TestBase - Departing from place selected successfuly
+2021-02-10 19:14:28,615 [main] INFO TestBase - Arriving from place selected successfuly
+2021-02-10 19:14:34,473 [main] INFO TestBase - Search flights button selected successfully
+2021-02-10 19:15:04,029 [main] INFO TestBase - 1st Passenger Name entered successfuly
+2021-02-10 19:15:06,323 [main] INFO TestBase - 1st Passenger Surname entered successfuly
+2021-02-10 19:15:08,567 [main] INFO TestBase - 2nd Passenger Name entered successfuly
+2021-02-10 19:15:10,820 [main] INFO TestBase - 2nd Passenger Surname entered successfuly
+2021-02-10 19:15:13,236 [main] INFO TestBase - Email Id entered successfuly
+2021-02-10 19:15:15,592 [main] INFO TestBase - Confirm Email Id entered successfuly
+2021-02-10 19:15:17,787 [main] INFO TestBase - Address detail entered successfuly
+2021-02-10 19:15:20,003 [main] INFO TestBase - City detail entered successfuly
+2021-02-10 19:15:22,212 [main] INFO TestBase - Postcode detail entered successfuly
+2021-02-10 19:15:24,503 [main] INFO TestBase - PhoneNumber detail entered successfuly
+2021-02-10 19:15:26,726 [main] INFO TestBase - Country dropdown clicked successfuly
+2021-02-10 19:15:28,862 [main] INFO TestBase - Country Selected successfuly
+2021-02-10 19:15:31,006 [main] INFO TestBase - PhoneCode dropdown clicked successfuly
+2021-02-10 19:15:33,173 [main] INFO TestBase - PhoneCode selected successfuly
+2021-02-10 19:15:35,279 [main] INFO TestBase - Checked box clicked successfuly
+2021-02-10 19:15:37,538 [main] INFO TestBase - Continue button clicked successfuly
+2021-02-10 19:33:14,234 [main] INFO TestBase - URL is Launch
+2021-02-10 19:33:31,827 [main] INFO TestBase - Value Entered successfully for search functionality
+2021-02-10 19:33:34,094 [main] INFO TestBase - Search button click Successfully
+2021-02-10 19:33:48,994 [main] INFO TestBase - Flight Booking side link click successfully
+2021-02-10 19:33:58,632 [main] INFO TestBase - Aggrement notice Pop-Up has been aggred successfully
+2021-02-10 19:34:07,310 [main] INFO TestBase - From Date picker clicked successfuly
+2021-02-10 19:34:09,532 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:09,675 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:09,838 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:09,966 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:10,109 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:10,262 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:34:12,829 [main] INFO TestBase - To Date picker clicked successfuly
+2021-02-10 19:34:17,407 [main] INFO TestBase - Service class dropdown clicked successfuly
+2021-02-10 19:34:19,553 [main] INFO TestBase - Service class selected successfuly from dropdown
+2021-02-10 19:34:19,639 [main] INFO TestBase - Traveler count dropdown selected successfuly
+2021-02-10 19:34:21,730 [main] INFO TestBase - Traveler count selected successfuly
+2021-02-10 19:34:30,140 [main] INFO TestBase - Departing from place selected successfuly
+2021-02-10 19:34:39,822 [main] INFO TestBase - Arriving from place selected successfuly
+2021-02-10 19:34:45,279 [main] INFO TestBase - Search flights button selected successfully
+2021-02-10 19:35:01,214 [main] INFO TestBase - Flights option selected successfully
+2021-02-10 19:36:25,275 [main] INFO TestBase - URL is Launch
+2021-02-10 19:36:42,790 [main] INFO TestBase - Value Entered successfully for search functionality
+2021-02-10 19:36:44,976 [main] INFO TestBase - Search button click Successfully
+2021-02-10 19:37:00,069 [main] INFO TestBase - Flight Booking side link click successfully
+2021-02-10 19:37:11,763 [main] INFO TestBase - Aggrement notice Pop-Up has been aggred successfully
+2021-02-10 19:37:19,748 [main] INFO TestBase - From Date picker clicked successfuly
+2021-02-10 19:37:21,933 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:22,091 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:22,251 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:22,405 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:22,536 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:22,762 [main] INFO TestBase - From Month selected successfully
+2021-02-10 19:37:26,073 [main] INFO TestBase - To Date picker clicked successfuly
+2021-02-10 19:37:30,639 [main] INFO TestBase - Service class dropdown clicked successfuly
+2021-02-10 19:37:32,788 [main] INFO TestBase - Service class selected successfuly from dropdown
+2021-02-10 19:37:32,907 [main] INFO TestBase - Traveler count dropdown selected successfuly
+2021-02-10 19:37:35,005 [main] INFO TestBase - Traveler count selected successfuly
+2021-02-10 19:37:43,420 [main] INFO TestBase - Departing from place selected successfuly
+2021-02-10 19:37:53,083 [main] INFO TestBase - Arriving from place selected successfuly
+2021-02-10 19:37:58,615 [main] INFO TestBase - Search flights button selected successfully
+2021-02-10 19:38:11,423 [main] INFO TestBase - Flights option selected successfully
+2021-02-10 19:38:22,979 [main] INFO TestBase - 1st Passenger Name entered successfuly
+2021-02-10 19:38:25,340 [main] INFO TestBase - 1st Passenger Surname entered successfuly
+2021-02-10 19:38:27,544 [main] INFO TestBase - 2nd Passenger Name entered successfuly
+2021-02-10 19:38:29,728 [main] INFO TestBase - 2nd Passenger Surname entered successfuly
+2021-02-10 19:38:32,019 [main] INFO TestBase - Email Id entered successfuly
+2021-02-10 19:38:34,286 [main] INFO TestBase - Confirm Email Id entered successfuly
+2021-02-10 19:38:36,432 [main] INFO TestBase - Address detail entered successfuly
+2021-02-10 19:38:38,621 [main] INFO TestBase - City detail entered successfuly
+2021-02-10 19:38:40,801 [main] INFO TestBase - Postcode detail entered successfuly
+2021-02-10 19:38:42,972 [main] INFO TestBase - PhoneNumber detail entered successfuly
+2021-02-10 19:38:45,258 [main] INFO TestBase - Country dropdown clicked successfuly
+2021-02-10 19:38:47,426 [main] INFO TestBase - Country Selected successfuly
+2021-02-10 19:38:49,668 [main] INFO TestBase - PhoneCode dropdown clicked successfuly
+2021-02-10 19:38:51,865 [main] INFO TestBase - PhoneCode selected successfuly
+2021-02-10 19:38:54,053 [main] INFO TestBase - Checked box clicked successfuly
+2021-02-10 19:38:56,317 [main] INFO TestBase - Continue button clicked successfuly
+2021-02-10 19:38:58,655 [main] INFO TestBase - Continue wihtout bagage selection button clicked successfuly
+2021-02-10 19:39:04,103 [main] INFO TestBase - Select option from Recommended for stress-free trip obtain button clicked successfuly
+2021-02-10 19:39:06,337 [main] INFO TestBase - Continue button clicked successfuly

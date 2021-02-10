@@ -40,6 +40,7 @@ public class WrapperClass extends TestBase {
 			}else {
 				
 				driver.findElement(By.xpath("//button//span[contains(@glyph,'arrow-right')]")).click();
+				logger.info("From Month selected successfully");
 			}
 		}
 		
@@ -73,6 +74,7 @@ public class WrapperClass extends TestBase {
 				}else {
 					
 					driver.findElement(By.xpath("//button//span[contains(@glyph,'arrow-right')]")).click();
+					logger.info("To Month selected successfully");
 				}
 			}
 			
