@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Demo assessment">
+
+	<listeners>
+		<listener class-name="SoftwareTestingAssesment.utilities.Reporting"/> 
+	
+	</listeners>
+	
+
   <test thread-count="1" name="LoginTest">
     <classes>
       

@@ -26,15 +26,15 @@ public class WrapperClass extends TestBase {
 		driver.findElement(element).sendKeys(str);
 	}
 
-	//Select From and To Date
+	//Select From Date
 	
-	public void selectDate(String month, String Date)
+	public void selectFromDate(String Frommonth, String Fromdate)
 	{
 		while(true)
 		{
 			String Text = driver.findElement(By.xpath("//div[contains(@class,'odf-calendar-title')]")).getText();
 			
-			if(Text.equals(month))
+			if(Text.equals(Frommonth))
 			{
 				break;
 			}else {
@@ -52,12 +52,45 @@ public class WrapperClass extends TestBase {
 		{
 			String DateSelectEx = DateSelectList.get(i).getText();
 			
-			if (DateSelectEx.equals(Date)) {
+			if (DateSelectEx.equals(Fromdate)) {
 				DateSelectList.get(i).click();
 				break;
 			}
 		}
 	}
+	
+	//Select To Date
+	
+		public void selectToDate(String Tomonth, String Todate)
+		{
+			while(true)
+			{
+				String Text = driver.findElement(By.xpath("//div[contains(@class,'odf-calendar-title')]")).getText();
+				
+				if(Text.equals(Tomonth))
+				{
+					break;
+				}else {
+					
+					driver.findElement(By.xpath("//button//span[contains(@glyph,'arrow-right')]")).click();
+				}
+			}
+			
+			//WebElement DateSelect = driver.findElement(By.xpath("//div[contains(@class,'odf-calendar-day')]"));
+			List<WebElement> DateSelectList = driver.findElements(By.xpath("//div[contains(@class,'odf-calendar-day')]"));
+			//List<WebElement> DateSelectList = DateSelect.findElements(By.tagName("div"));
+			int DN=DateSelectList.size();
+			
+			for(int i=0;i<DN;i++)
+			{
+				String DateSelectEx = DateSelectList.get(i).getText();
+				
+				if (DateSelectEx.equals(Todate)) {
+					DateSelectList.get(i).click();
+					break;
+				}
+			}
+		}
 	
 	
 	public void clickWithJS(By locator) {
@@ -90,5 +123,11 @@ public class WrapperClass extends TestBase {
 			}
 		}
 	}
+	
+	
+	//Select To value from dropdown
+	
+			
+	
 
 }
